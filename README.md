@@ -1,6 +1,6 @@
 # veriAnaliziOdev
 
-** Root 4 olsun **
+**Root 4 olsun **
 
                        4
                     /      \
